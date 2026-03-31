@@ -18,7 +18,7 @@ This project focuses on analyzing election data using interactive dashboards. It
 
 ## 📂 Project Structure
 - data/ → Dataset files
-- dashboards/ → Power BI file + screenshots
+- dashboards/ → Power BI file + screenshots(updating soon)
 - reports/ → Project report
 - presentation/ → PPT slides
 
