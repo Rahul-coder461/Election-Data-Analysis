@@ -22,8 +22,5 @@ This project focuses on analyzing election data using interactive dashboards. It
 - reports/ → Project report
 - presentation/ → PPT slides
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## 🚀 Conclusion
 This project demonstrates how data visualization can simplify complex election data and provide meaningful insights.
