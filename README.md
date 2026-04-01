@@ -26,7 +26,7 @@ The **Election Data Analysis Dashboard** is designed to help users understand el
 ---
 
 ## 📂 Project Structure
-📁 data/ → Raw and processed datasets
+📁 data/ → Raw and processed datasets\n
 📁 dashboards/ → Power BI files and screenshots
 📁 reports/ → Detailed project documentation
 📁 presentation/ → Project presentation slides
